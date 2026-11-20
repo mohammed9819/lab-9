@@ -4,4 +4,3 @@
     $pwd = "";                // default password is empty in XAMPP
     $sql_db = "exhibition_db";   // your actual database name
 ?>
-
